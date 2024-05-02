@@ -17,7 +17,7 @@ Structure
 - **News Scrapping:** This directory includes the code as well as the data that we acquired from web scrapping of the news articles which are related to LLM attacks.
 - **Statewise Threat Assesment:** This directory includes the statewise analysis of LLM attacks. This data is used for tableau visualization which visualizes which state is more vulnerable to each sector.
 - **Veris Dataset:** This is the Veris Community Database (VCDB) which is a repository of cyber attacks happening in the whole world. We are using this dataset for our LLM attacks mapping. Here is the link of actual dataset: [VERIS](https://github.com/vz-risk/VCDB)
-- 
+
 ## Key Components
 
 - **Threat Identification:** Analysis of known attack vectors against LLMs.
@@ -29,7 +29,7 @@ Structure
 - **Python:** For data manipulation and analysis.
 - **R:** For statistical analysis and visualization.
 - **Tableau:** For creating interactive dashboards to visualize risks.
-Getting Started
+
 
 
 ## Team
