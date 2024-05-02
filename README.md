@@ -13,9 +13,10 @@ Structure
 
 ##  The repository is structured as follows:
 
-/data: This directory contains datasets used for analysis, including industry-specific data and LLM attack vectors.
-/docs: Documentation related to project findings, including risk assessments and methodology descriptions.
-/src: Source code for the analysis scripts and tools developed during the project.
+/Markov Chain Analysis: This directory contains Markov Chain Analysis for each sector. It also has number of LLM attacks for each sector for each month.
+/News Scrapping: This directory includes the code as well as the data that we acquired from web scrapping of the news articles which are related to LLM attacks.
+/Statewise Threat Assesment: This directory includes the statewise analysis of LLM attacks. This data is used for tableau visualization which visualizes which state is more vulnerable to each sector.
+/Veris Dataset: This is the Veris Community Database (VCDB) which is a repository of cyber attacks happening in the whole world. We are using this dataset for our LLM attacks mapping. Here is the link of actual dataset: [VERIS](https://github.com/vz-risk/VCDB)
 Key Components
 
 Threat Identification: Analysis of known attack vectors against LLMs.
