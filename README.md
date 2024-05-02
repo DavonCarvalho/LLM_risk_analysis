@@ -30,8 +30,6 @@ Structure
 - **R:** For statistical analysis and visualization.
 - **Tableau:** For creating interactive dashboards to visualize risks.
 
-
-
 ## Team
 
 - **Baba Akhil Sarvasiddhi** - Product Owner
